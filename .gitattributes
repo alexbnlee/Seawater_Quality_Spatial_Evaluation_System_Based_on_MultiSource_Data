@@ -1,5 +1,2 @@
-*.sln linguist-language=C#
-*.cs linguist-language=C#
-*.resx linguist-language=C#
-*.config linguist-language=C#
-*.csproj linguist-language=C#
+*.mdb linguist-language=C#
+*.dll linguist-language=C#
